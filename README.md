@@ -1,7 +1,5 @@
-# Customer-Retention-Strategy-Analysis
-End-to-end customer churn analysis using SQL, Python, and Power BI,
 # Customer Retention Strategy Analysis
-
+End-to-end customer churn analysis using SQL, Python, and Power BI
 ## Project Overview
 
 This project analyzes customer churn for a telecommunications company using SQL, Python, and Power BI. The goal is to identify patterns associated with customer churn, understand the financial impact of customer attrition, and provide data-driven recommendations that could help improve customer retention.
